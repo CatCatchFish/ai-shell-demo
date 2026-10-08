@@ -1,0 +1,1 @@
+package cat.example.ai.infrastructure.gateway.dto;
