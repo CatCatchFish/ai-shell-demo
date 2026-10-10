@@ -37,3 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Local credentials for manual API demos
+.env
+.env.*
+!.env.example
