@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import java.util.Map;
 
 @Data
-@ConfigurationProperties(prefix = "ai.agent.auto.config", ignoreUnknownFields = true)
+@ConfigurationProperties(prefix = "ai.agent.config", ignoreUnknownFields = true)
 public class AiAgentAutoConfigProperties {
 
     /**
