@@ -166,6 +166,12 @@
                 <scope>import</scope>
             </dependency>
 
+            <dependency>
+                <groupId>cn.bugstack.wrench</groupId>
+                <artifactId>xfg-wrench-starter-design-framework</artifactId>
+                <version>3.0.0</version>
+            </dependency>
+
             <!-- 工程模块 -->
             <dependency>
                 <groupId>cat.example.ai</groupId>

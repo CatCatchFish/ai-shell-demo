@@ -43,6 +43,11 @@
             <groupId>cat.example.ai</groupId>
             <artifactId>ai-shell-types</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>cn.bugstack.wrench</groupId>
+            <artifactId>xfg-wrench-starter-design-framework</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
